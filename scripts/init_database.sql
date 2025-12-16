@@ -30,7 +30,8 @@ Create Database DataWarehouse;
 GO
 Use DataWarehouse;
 GO
-  
+
+--Create Schemas
 Create SCHEMA bronze;
 GO
   
